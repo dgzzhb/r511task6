@@ -275,8 +275,8 @@ section {
 
 .about {
     display: flex;
-    justify-content: left;
-    align-items: left;
+    justify-content: center;
+    align-items: center;
     flex-direction: column;
     gap: 2rem;
     background: var(--second-bg-color);
@@ -326,7 +326,7 @@ span {
 }
 
 .about-content {
-    text-align: center;
+    text-align: left;
 }
 
 .about-content h3 {
